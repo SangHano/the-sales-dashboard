@@ -1,10 +1,40 @@
-.grid{
-  background-color: aquamarine;
-  height:500px;
+.sideBar{
+  background-color:blanchedalmond;
+  height: 700px;
   padding:30px;
 }
-.innerGrid{
-  background-color: beige;
-  height: 300px;
-  width: 200px;
+.mainBar{
+  background-color: blanchedalmond;
+  height:200px;
+  padding:30px;
+}
+.midBars{
+  background-color: blanchedalmond;
+  height:100px;
+  padding:30px;
+  position: relative;
+  left:240px;
+  bottom: 500px;
+}
+#empty{
+  background-color: white;
+}
+.midBotBar{
+  background-color:blanchedalmond;
+  height: 247px;
+  padding: 30px;
+  position: relative;
+  left:240px;
+  bottom: 500px;;
+}
+.chartBar{
+  background-color: blanchedalmond;
+  height:247px;
+  padding:30px;
+  position: relative;
+  left:245px;
+  bottom: 500px;
+}
+.mainText{
+  padding-top: 100px;
 }
