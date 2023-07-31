@@ -1,0 +1,10 @@
+.grid{
+  background-color: aquamarine;
+  height:500px;
+  padding:30px;
+}
+.innerGrid{
+  background-color: beige;
+  height: 300px;
+  width: 200px;
+}
